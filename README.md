@@ -26,7 +26,7 @@ A calculadora possui um estilo moderno e utiliza cores suaves para uma melhor ex
 
 ## Como usar
 
-1. Faça o download dos arquivos `index.html` e `style.css`.
+1. Faça o download dos arquivos `index.html`.
 2. Abra o arquivo `index.html` em um navegador da web.
 3. Utilize os botões da calculadora para inserir os valores e realizar as operações desejadas.
 4. O resultado será exibido no campo de resultado.
